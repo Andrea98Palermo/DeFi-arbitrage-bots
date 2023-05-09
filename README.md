@@ -1,5 +1,5 @@
 # DeFi-arbitrage-bots
-These bots can be used to find and perform arbitrage between different decentralised exchanges
+These bots can be used to find and perform arbitrages between different decentralised exchanges
 
 # Pancake & BakerySwap arbitrage
  
