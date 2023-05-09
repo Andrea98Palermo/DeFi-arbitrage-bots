@@ -1,0 +1,38 @@
+{
+  "name": "pancake-bakery-arbitrage",
+  "version": "1.0.0",
+  "description": "A sample application invokes a flashloan with `Flash Swaps` and a monitoring tool in Node.js. To know details about `Flash Swaps`: visit https://uniswap.org/docs/v2/core-concepts/flash-swaps/",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ap",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "bignumber.js": "^9.0.1",
+    "chalk": "^4.1.1",
+    "dotenv": "^8.6.0",
+    "fmin": "0.0.2",
+    "jetty": "^0.2.1",
+    "log-update": "^4.0.0",
+    "moment": "^2.29.1",
+    "truffle": "^5.3.8",
+    "web3": "^1.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JediKunnow/sushi-quick-arbitrage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JediKunnow/sushi-quick-arbitrage/issues"
+  },
+  "homepage": "https://github.com/JediKunnow/sushi-quick-arbitrage#readme",
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.9"
+  }
+}
